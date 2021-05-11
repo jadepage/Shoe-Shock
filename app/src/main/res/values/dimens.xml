@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sidebar_menu_text_margin_top">64dp</dimen>
+    <dimen name="sidebar_menu_text_margin_left">4dp</dimen>
+    <dimen name="large_shoe_margin_top">8dp</dimen>
+
+</resources>
